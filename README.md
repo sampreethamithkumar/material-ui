@@ -1,8 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+#Project URL: 
+http://mighty-bastion-65484.herokuapp.com/
 
 In the project directory, you can run:
 
